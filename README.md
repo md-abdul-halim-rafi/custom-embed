@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-![](https://badgen.net/badge/Editor.js/v2.0/blue)
-
 # Embed Tool
 
 Provides Block tool for embedded content for the [Editor.js](https://editorjs.io).
