@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](https://badgen.net/badge/Editor.js/v2.0/blue)
 
 # Embed Tool
@@ -184,3 +185,6 @@ var editor = EditorJS({
 }
 ```
 
+=======
+# custom-embed
+>>>>>>> a180440a7625d1ae6f346fd87e6dfc189b677f6d
